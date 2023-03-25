@@ -1,0 +1,9 @@
+D:\2ANO\Tecnico\DS_I\WF_LoginJson\WF_LoginJson\bin\Debug\WF_LoginJson.exe.config
+D:\2ANO\Tecnico\DS_I\WF_LoginJson\WF_LoginJson\bin\Debug\WF_LoginJson.exe
+D:\2ANO\Tecnico\DS_I\WF_LoginJson\WF_LoginJson\bin\Debug\WF_LoginJson.pdb
+D:\2ANO\Tecnico\DS_I\WF_LoginJson\WF_LoginJson\obj\Debug\WF_LoginJson.csprojAssemblyReference.cache
+D:\2ANO\Tecnico\DS_I\WF_LoginJson\WF_LoginJson\obj\Debug\WF_LoginJson.Form1.resources
+D:\2ANO\Tecnico\DS_I\WF_LoginJson\WF_LoginJson\obj\Debug\WF_LoginJson.Properties.Resources.resources
+D:\2ANO\Tecnico\DS_I\WF_LoginJson\WF_LoginJson\obj\Debug\WF_LoginJson.csproj.GenerateResource.cache
+D:\2ANO\Tecnico\DS_I\WF_LoginJson\WF_LoginJson\obj\Debug\WF_LoginJson.exe
+D:\2ANO\Tecnico\DS_I\WF_LoginJson\WF_LoginJson\obj\Debug\WF_LoginJson.pdb
